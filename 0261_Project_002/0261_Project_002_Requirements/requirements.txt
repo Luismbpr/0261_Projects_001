@@ -1,0 +1,14 @@
+### Project 0261_Project_002
+Python==3.11.3
+folium==0.14.0
+ipython==8.14.0
+json-c==0.16
+json5==0.9.5
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.0.2
+plotly==5.15.
+scikit-learn==1.2.2
+scipy==1.11.0
+seaborn==0.12.2
+xgboost==1.7.6
