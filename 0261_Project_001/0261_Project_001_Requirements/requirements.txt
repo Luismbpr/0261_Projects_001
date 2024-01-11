@@ -1,0 +1,10 @@
+### Project 0261_Project_001
+Python==3.11.3
+ipython==8.14.0
+json-c==0.16
+json5==0.9.5
+matplotlib==3.7.1
+numpy==1.25.0
+pandas==2.0.2
+plotly==5.15.
+seaborn==0.12.2
